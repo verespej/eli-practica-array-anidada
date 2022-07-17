@@ -1,4 +1,4 @@
-// Data un array y un numero, devolver un array que contiene
+// Dado un array y un numero, devolver un array que contiene
 // solo los elementos del array que estan en un indice que es
 // divisible por numero.
 //
