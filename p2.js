@@ -1,5 +1,5 @@
 // Dado un array de arrays y dos numeros, num1 y num2, devolver
-// el elemento del elemento num2 de array num1.
+// el elemento del elemento <num2> de array <num1>.
 //
 // Ej:
 // [
